@@ -6,7 +6,7 @@ No pretende ser un robot especialmente bueno.
 Es un robot de iniciación a laberinto, para que cualquiera que no sepa como empezar pueda hacerlo.
 
 **15 de octubre de 2016**
-Compartidas las dos piezas iniciales del chasis.
+Compartidas las dos piezas iniciales del chasis en formato fcstd (freecad) stl y step.
 
 chasisSuperior.fcstd
 chasisSuperior.stl

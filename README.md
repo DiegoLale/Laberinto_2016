@@ -8,7 +8,7 @@ Es un robot de iniciación a laberinto, para que cualquiera que no sepa como emp
 Toda la información puede encontrarse en www.lalebots.com
 
 **15 de octubre de 2016**
-Compartidas las dos piezas iniciales del chasis.
+Compartidas las dos piezas iniciales del chasis en formato fcstd (freecad) stl y step.
 
 chasisSuperior.fcstd
 chasisSuperior.stl

@@ -22,3 +22,5 @@ Toda la información en www.lalebots.com
     TapaBateria
     LlantaLego
     
+*** 24 octubre 2016***
+  Compartida electrónica 
